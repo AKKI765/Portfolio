@@ -1,0 +1,29 @@
+#project1{
+    background-image: url(../../projImages/ResponsiveWordCounter.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#project2{
+    background-image: url(../../projImages/CalculatorApp.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#project3{
+    background-image: url(../../projImages/Cards.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#project4{
+    background-image: url(../../projImages/Builderz.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#project5{
+    background-image: url(../../projImages/Train.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
