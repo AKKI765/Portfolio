@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.7bfe6672.css",
+    "main.js": "/Portfolio/static/js/main.6ae1eba1.js",
+    "static/media/About.jpg": "/Portfolio/static/media/About.63a5b80914a4ebf38764.jpg",
+    "static/media/profile.jpg": "/Portfolio/static/media/profile.63a5b80914a4ebf38764.jpg",
+    "static/media/Builderz.jpg": "/Portfolio/static/media/Builderz.7f442096313d84d79c2e.jpg",
+    "static/media/Cards.jpg": "/Portfolio/static/media/Cards.af46c3115c3720ffba60.jpg",
+    "static/media/Atul-Cv.pdf": "/Portfolio/static/media/Atul-Cv.dd7ecd2d74353e663fca.pdf",
+    "static/media/CalculatorApp.jpg": "/Portfolio/static/media/CalculatorApp.2c59449a3ce61c887426.jpg",
+    "static/media/ResponsiveWordCounter.jpg": "/Portfolio/static/media/ResponsiveWordCounter.77c4a12d3470d0ca86fc.jpg",
+    "static/media/Train.jpg": "/Portfolio/static/media/Train.915a06884eeb78801b1b.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.7bfe6672.css.map": "/Portfolio/static/css/main.7bfe6672.css.map",
+    "main.6ae1eba1.js.map": "/Portfolio/static/js/main.6ae1eba1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bfe6672.css",
+    "static/js/main.6ae1eba1.js"
+  ]
+}
